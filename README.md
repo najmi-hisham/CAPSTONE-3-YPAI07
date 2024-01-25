@@ -11,12 +11,13 @@ text. You will see the step by step on creating NLP model to classify text in th
 - To achieve high accuracy during training without overfitting
 
 # Model Architecture
-![My_model](https://github.com/najmi-hisham/CAPSTONE-3-YPAI07/assets/69621770/4080ac8c-185d-4966-a7e3-2d109d7a5903)
+![My_model](https://github.com/najmi-hisham/CAPSTONE-3-YPAI07/assets/69621770/c0cb9a4b-772a-429c-b4f6-b83255df82f9)
 
 # RESULT
-![accuracy plot](https://github.com/najmi-hisham/CAPSTONE-3-YPAI07/assets/69621770/eff128b4-065f-4a0d-a23e-cebe4cc881b5 "Accuracy Plotting using matplotlib")
-![accuracy_tensorboard](https://github.com/najmi-hisham/CAPSTONE-3-YPAI07/assets/69621770/d362405c-e834-41c3-90bb-0714afc631ee "Accuracy Plot using Tensorboard")
-![classification report](https://github.com/najmi-hisham/CAPSTONE-3-YPAI07/assets/69621770/9cb874e6-dedc-4f74-b8f1-096b1e73787d "Classification Report")
+![accuracy matplotlib](https://github.com/najmi-hisham/CAPSTONE-3-YPAI07/assets/69621770/ffa6870a-1525-47de-992b-ccd1c991b68d "Accuracy Plotting using matplotlib")
+![accuracy tensorboard](https://github.com/najmi-hisham/CAPSTONE-3-YPAI07/assets/69621770/635c3bfd-6da4-4590-87f7-09aff0e454e2 "Accuracy Plot using Tensorboard")
+![classification report](https://github.com/najmi-hisham/CAPSTONE-3-YPAI07/assets/69621770/3074ac64-d30f-4e27-9b23-47ed85c8704d "Classification Report")
+
 
 
 
