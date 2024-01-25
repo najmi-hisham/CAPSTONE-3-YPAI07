@@ -18,6 +18,10 @@ text. You will see the step by step on creating NLP model to classify text in th
 ![accuracy tensorboard](https://github.com/najmi-hisham/CAPSTONE-3-YPAI07/assets/69621770/635c3bfd-6da4-4590-87f7-09aff0e454e2 "Accuracy Plot using Tensorboard")
 ![classification report](https://github.com/najmi-hisham/CAPSTONE-3-YPAI07/assets/69621770/3074ac64-d30f-4e27-9b23-47ed85c8704d "Classification Report")
 
+#
+credited to https://www.kaggle.com/datasets/saurabhshahane/ecommerce-text-classification
+#
+
 
 
 
